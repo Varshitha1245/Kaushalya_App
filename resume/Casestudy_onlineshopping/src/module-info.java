@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Casestudy_onlineshopping {
-}
