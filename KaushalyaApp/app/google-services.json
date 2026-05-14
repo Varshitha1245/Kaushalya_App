@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462414075662",
+    "project_id": "kaushalyaapp-78085",
+    "storage_bucket": "kaushalyaapp-78085.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462414075662:android:59523d2c02b55299ae295f",
+        "android_client_info": {
+          "package_name": "com.example.kaushalyaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZzUjwZGj222D1KOESWGt4C1IFxriOtH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
